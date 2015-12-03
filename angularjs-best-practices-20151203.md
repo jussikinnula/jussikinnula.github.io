@@ -1,4 +1,4 @@
-│![AngularJS Helsinki Logo on Black](//angularjs-helsinki.s3-eu-west-1.amazonaws.com/angularjs_hel_logo_on_black.svg)
+![AngularJS Helsinki Logo on Black](//angularjs-helsinki.s3-eu-west-1.amazonaws.com/angularjs_hel_logo_on_black.svg)
 
 ## [@angularjs_hel](//twitter.com/angularjs_hel) [meetup](http://www.meetup.com/AngularJS-Helsinki/)
 #### [Frantic](https://www.frantic.com/) office, 3rd December, 2015.
