@@ -9,9 +9,13 @@
 
 ## AngularJS 1.x + JavaScript
 
-  *This material is heavily based on workings of [@john_papa](//twitter.com/john_papa)*
+Jussi Kinnula
+jussi.kinnula@frantic.com
+https://github.com/jussikinnula
 
-  The original material can be read from GitHub: https://github.com/johnpapa/angular-styleguide
+*This material is heavily based on workings of [@john_papa](//twitter.com/john_papa)*
+
+The original material can be read from GitHub: https://github.com/johnpapa/angular-styleguide
 
 ---
 
