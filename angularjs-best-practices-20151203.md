@@ -1807,7 +1807,7 @@ ___
 
 ## These slides:
 
-http://jussikinnula.github.io/angularjs-best-practices-20151203.html
+http://jussikinnula.github.io/angularjs-best-practices-20151203
 
 ## The "original" version:
 
