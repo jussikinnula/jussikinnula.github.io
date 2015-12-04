@@ -1424,7 +1424,7 @@ module.exports = {
         src: [
             "src/**/*.html"
         ],
-        dest: "dist/templates-app.js"
+        dest: "src/templates-app.js"
     }
 }
 ```
@@ -1437,7 +1437,7 @@ module.exports = {
     dist: {
         files: {
             "dist/main.js": [
-                'src/**/*,js'
+                'src/**/*.js'
             ]
         }
     }
