@@ -8,7 +8,7 @@ Angular 2 + Socket.io + NodeJS + ExpressJS + MongoDB + Webpack + Gulp + SASS
 
 https://github.com/jussikinnula/angular2-socketio-chat-example
 
-https://jussikinnula.github.io/angular2-chat
+https://jussikinnula.github.io/angular2-chat-20160615
 
 ---
 
@@ -673,16 +673,18 @@ Types of action needs to be defined, so those can be handled on `RoomService` an
 
 ---
 
-# The code
+# Thank you!
+
+### These slides
+
+https://jussikinnula.github.io/angular2-chat-20160615
+
+### The code
 
 https://github.com/jussikinnula/angular2-socketio-chat-example
 
----
-
-# And the deployed version
+### And the deployed version
 
 https://ng2chat.herokuapp.com/
 
 ---
-
-# Thank you!
