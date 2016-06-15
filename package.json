@@ -1,0 +1,21 @@
+{
+  "name": "jussikinnula.github.io",
+  "version": "1.0.0",
+  "description": "Jussi Kinnula's GitHub page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jussikinnula/jussikinnula.github.io.git"
+  },
+  "author": "Jussi Kinnula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jussikinnula/jussikinnula.github.io/issues"
+  },
+  "homepage": "https://github.com/jussikinnula/jussikinnula.github.io#readme"
+}
