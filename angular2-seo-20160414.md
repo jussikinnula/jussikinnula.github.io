@@ -3,7 +3,7 @@
 ## Jussi Kinnula
 
 https://github.com/jussikinnula/angular2-express-phantom
-https://jussikinnula.github.io/angular2-seo
+https://jussikinnula.github.io/angular2-seo-20160414
 
 ---
 
