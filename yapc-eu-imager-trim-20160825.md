@@ -8,7 +8,7 @@ spot@cpan.org
 
 ---
 
-# Problem #1
+# Problem
 
 ___
 
