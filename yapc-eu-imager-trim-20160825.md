@@ -1,5 +1,7 @@
 # Imager::Trim
 
+### YAPC::EU 2016
+
 ## Jussi Kinnula
 
 @jussikinnula on Twitter
@@ -746,3 +748,7 @@ ___
 You can find the slides at:
 
 https://jussikinnula.github.io/yapc-eu-imager-trim-20160825
+
+@jussikinnula (Twitter)
+
+https://github.com/jussikinnula
