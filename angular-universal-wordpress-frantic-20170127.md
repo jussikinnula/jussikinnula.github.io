@@ -4,12 +4,6 @@
 
 ## Jussi Kinnula
 
-GitHub repository:
-https://github.com/jussikinnula/angular2-universal-wordpress
-
-Slides:
-https://jussikinnula.github.io/angular-universal-wordpress-frantic-20170127
-
 ---
 
 # Core Concepts
@@ -105,3 +99,9 @@ Note! The instructions are for older WordPress 4.6.2. The started will be update
 ---
 
 # Thank you!
+
+GitHub repository:
+https://github.com/jussikinnula/angular2-universal-wordpress
+
+Slides:
+https://jussikinnula.github.io/angular-universal-wordpress-frantic-20170127
