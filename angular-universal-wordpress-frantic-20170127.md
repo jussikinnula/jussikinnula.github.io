@@ -85,7 +85,7 @@ Read instructions from:
 
 https://github.com/jussikinnula/angular2-universal-wordpress
 
-Note! The instructions are for older WordPress 4.6.2. The started will be updated shortly, but just a reminder that WP-API doesn't need to be installed as plugin anymore.
+Note! The instructions are for older WordPress 4.6.2. The starter repository will be updated shortly, but just a reminder that WP-API doesn't need to be installed as plugin anymore.
 
 ---
 
