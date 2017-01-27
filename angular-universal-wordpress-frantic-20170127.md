@@ -1,9 +1,14 @@
 # Angular Universal + WordPress
 
+### 27.1.2017 @ Frantic Tech Meeting
+
 ## Jussi Kinnula
 
+GitHub repository:
 https://github.com/jussikinnula/angular2-universal-wordpress
-https://jussikinnula.github.io/angular-universal-wordpress-20170127
+
+Slides:
+https://jussikinnula.github.io/angular-universal-wordpress-frantic-20170127
 
 ---
 
