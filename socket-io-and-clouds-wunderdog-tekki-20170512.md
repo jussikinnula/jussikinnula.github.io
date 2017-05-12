@@ -56,7 +56,7 @@ io.on('connection', function(socket) {
   socket.on('chat message', function(msg) {
     console.log('Received message: '
       + `${msg.message} from ${msg.nickname}`);
-    io.emit('chat message', {
+    io.sockets.emit('chat message', {
       nick: msg.nickname,
       message: msg.message
     });
