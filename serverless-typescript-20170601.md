@@ -205,12 +205,12 @@ ___
 
 # Thank you!
 
-GitHub repository (Demo #1 & Demo #2):
-https://github.com/jussikinnula/socket-io-and-clouds
+GitHub repository:
+https://github.com/jussikinnula/angular-serverless-typescript
 
 GitHub repository (Demo #3):
 https://github.com/jussikinnula/ngx-socketio-chat-example
 
 Slides:
-https://jussikinnula.github.io/socket-io-and-clouds-wunderdog-tekki-20170512
+https://jussikinnula.github.io/serverless-typescript-20170601
 
