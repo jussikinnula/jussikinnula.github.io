@@ -59,7 +59,7 @@ http://xyz.amazonaws.com/hello-world
 
 ___
 
-# Node Version Manager
+## Node Version Manager
 
 Node Version Manager (nvm) enables to use multiple NodeJS versions locally.
 
