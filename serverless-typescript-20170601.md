@@ -208,9 +208,6 @@ ___
 GitHub repository:
 https://github.com/jussikinnula/angular-serverless-typescript
 
-GitHub repository (Demo #3):
-https://github.com/jussikinnula/ngx-socketio-chat-example
-
 Slides:
 https://jussikinnula.github.io/serverless-typescript-20170601
 
